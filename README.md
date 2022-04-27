@@ -23,3 +23,4 @@ I figured out how to embed maps, videos, and video games - the html code feature
 Next steps:
 - Project Status: I would say this is nearly complete- but eventually, I would like to add in more advanced styles, javascript and other API items to make the website less static and have more of a visual style.
 - Get more advanced with Javascript
+- FINALIZE Contact me section!
