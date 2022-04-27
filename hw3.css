@@ -107,3 +107,13 @@ ul.sidebyside li a {
     color: #C8D96F;
     font-size: 40px;
 }
+.facts {
+    color: #C8D96F;
+    font-size: 20px;
+
+}
+
+.facts:hover {
+    color: #5c573e;
+    font-style: italic;
+  }
